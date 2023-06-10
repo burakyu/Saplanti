@@ -1,1 +1,1 @@
-# Saplanti
+# Saplantı
