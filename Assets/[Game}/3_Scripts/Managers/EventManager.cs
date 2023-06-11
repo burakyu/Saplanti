@@ -5,5 +5,5 @@ using UnityEngine.Events;
 
 public static class EventManager
 {
-    public static UnityEvent ResourceCollected = new UnityEvent();
+    public static UnityEvent CoinCollected = new UnityEvent();
 }

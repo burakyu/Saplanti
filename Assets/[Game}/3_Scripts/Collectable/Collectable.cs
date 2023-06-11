@@ -6,12 +6,12 @@ public class Collectable : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("1");
         if (collision.gameObject.CompareTag("Player"))
         {
-            Debug.Log("2");
-            ScoreManager.Instance.Score++;
+            AudioSource.PlayClipAtPoint(CoinManager.Instance.CoinCollectSound, transform.position);
+            CoinManager.Instance.CoinCount++;
             Destroy(this.gameObject);
+            EventManager.CoinCollected.Invoke();
         }
     }
 }
