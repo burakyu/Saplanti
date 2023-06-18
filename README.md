@@ -25,7 +25,7 @@ Kolay kontroller \
 Hızlı ve akıcı oynayış
 
 ## Hedef Kitle
-5 Yaş ve Üstü, Bilgisayar Erişimi Olan Herkes
+- 5 Yaş ve Üstü, Bilgisayar Erişimi Olan Herkes
 
 # Sprint 1
 Sprint içinde tamamlanması tahmin edilen puan: 40 Puan
