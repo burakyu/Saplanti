@@ -3,11 +3,11 @@ Takım Unity 96
 
 # Ürün İle İlgili Bilgiler
 ## Takım Elemanları 
-Mehmet Zahit Keskin - Developer / Product Owner \
-Burak Yüksek - Developer / Scrum Master \
-Aslı Nurbanu - Developer \
-Esra Akşit - Developer \
-Berk Kaya - Developer 
+- Mehmet Zahit Keskin - Developer / Product Owner \
+- Burak Yüksek - Developer / Scrum Master \
+- Aslı Nurbanu - Developer \
+- Esra Akşit - Developer \
+- Berk Kaya - Developer 
 
 ## Ürün İsmi
 Saplantı
@@ -42,4 +42,13 @@ Scrum: Scrum toplantıları için Whatsapp ve Discord kullanılmıştır.
 ![a2](https://github.com/burakyu/Saplanti/assets/69505119/0076e593-139d-4cf4-91bf-4f8c5182d827)
 
 ![a3](https://github.com/burakyu/Saplanti/assets/69505119/f0e42407-70a9-4d00-8b8b-fe0b52e13f7c)
+
+
+Sprint Review: 
+
+![a5](https://github.com/burakyu/Saplanti/assets/69505119/f71dcc03-55cb-40f2-9fef-c675672929ba)
+
+Sprint Retrospective:
+
+Mehmet, Burak ve Esra dışındaki takım üyeleri sınav haftaları olması nedeniyle vakit ayıramadılar. Görevlerin çoğu sprint 2'ye kaldı.
 
