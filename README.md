@@ -28,9 +28,9 @@ Hızlı ve akıcı oynayış
 5 Yaş ve Üstü, Bilgisayar Erişimi Olan Herkes
 
 # Sprint 1
-Sprint içinde tamamlanması tahmin edilen puan: 60 Puan
+Sprint içinde tamamlanması tahmin edilen puan: 40 Puan
 
-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ve ilk sprint'in planlama ve proje detaylarını belirleme üzerine ilerleyeceği için 60 puan üzerinden başlaması gerektiğine karar verildi.
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ve ilk sprint'in planlama ve proje detaylarını belirleme üzerine ilerleyeceği için 40 puan üzerinden başlaması gerektiğine karar verildi.
 
 Scrum: Scrum toplantıları için Whatsapp ve Discord kullanılmıştır.
 
