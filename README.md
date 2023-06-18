@@ -2,12 +2,12 @@
 Takım Unity 96
 
 # Ürün İle İlgili Bilgiler
-## Takım Elemanları \
+## Takım Elemanları 
 Mehmet Zahit Keskin - Developer / Product Owner \
 Burak Yüksek - Developer / Scrum Master \
 Aslı Nurbanu - Developer \
 Esra Akşit - Developer \
-Berk Kaya - Developer \
+Berk Kaya - Developer 
 
 ## Ürün İsmi
 Saplantı
