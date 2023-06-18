@@ -18,10 +18,10 @@ Saplantı
 Açgözlü karakterimiz asla doymuyor. Adeta saplantı haline getirdiği madeni paraları toplamaktan kendini alamıyor. Ona bu yolculukta yardım eder misin?
 
 ## Ürün Özellikleri
-Etkileyici görsellik ve gerçeklikte grafikler 
-Basit arayüz
-Kolay kontroller
-2D platform oyunu
+Etkileyici görsellik ve gerçeklikte grafikler \
+Basit arayüz \
+Kolay kontroller \
+2D platform oyunu \
 Hızlı ve akıcı oynayış
 
 ## Hedef Kitle
