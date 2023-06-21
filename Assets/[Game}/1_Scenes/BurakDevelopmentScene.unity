@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 33206677}
   - component: {fileID: 33206679}
   - component: {fileID: 33206678}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_6 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -316,7 +316,7 @@ GameObject:
   - component: {fileID: 93068101}
   - component: {fileID: 93068103}
   - component: {fileID: 93068102}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_6 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -426,7 +426,7 @@ GameObject:
   m_Component:
   - component: {fileID: 159741768}
   - component: {fileID: 159741767}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -763,7 +763,7 @@ GameObject:
   m_Component:
   - component: {fileID: 405751370}
   - component: {fileID: 405751369}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1240,7 +1240,7 @@ GameObject:
   - component: {fileID: 705624502}
   - component: {fileID: 705624504}
   - component: {fileID: 705624503}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_6 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1350,7 +1350,7 @@ GameObject:
   m_Component:
   - component: {fileID: 712431556}
   - component: {fileID: 712431555}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1503,7 +1503,7 @@ GameObject:
   - component: {fileID: 856680502}
   - component: {fileID: 856680504}
   - component: {fileID: 856680503}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_6 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1755,7 +1755,7 @@ GameObject:
   - component: {fileID: 980513516}
   - component: {fileID: 980513515}
   - component: {fileID: 980513514}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2083,7 +2083,7 @@ GameObject:
   - component: {fileID: 1155169024}
   - component: {fileID: 1155169023}
   - component: {fileID: 1155169022}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2364,7 +2364,7 @@ GameObject:
   - component: {fileID: 1485729516}
   - component: {fileID: 1485729515}
   - component: {fileID: 1485729514}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2647,7 +2647,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1682554979}
   - component: {fileID: 1682554980}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_9 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2879,7 +2879,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1810152884}
   - component: {fileID: 1810152885}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_9 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3047,7 +3047,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1846638356}
   - component: {fileID: 1846638357}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_9 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3215,7 +3215,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1930662651}
   - component: {fileID: 1930662652}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_9 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3512,6 +3512,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 71737331206176022, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_Name
+      value: groundCheck
+      objectReference: {fileID: 0}
+    - target: {fileID: 71737331206176022, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -3559,6 +3567,10 @@ PrefabInstance:
     - target: {fileID: 8344467101878427275, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 8344467101878427287, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
