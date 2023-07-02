@@ -1,3 +1,4 @@
+![Screenshot_2](https://github.com/burakyu/Saplanti/assets/82573866/4aaaeb00-bdda-410d-a57b-11fcd9328d20)
 # Takım İsmi
 Takım Unity 96
 
@@ -53,5 +54,19 @@ Mehmet, Burak ve Esra dışındaki takım üyeleri sınav haftaları olması ned
 # Sprint 2
 Sprint içinde tamamlanması tahmin edilen puan: 60 Puan
 
-Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:[Sprint_2_Daily_Scrum.docx](https://github.com/burakyu/Saplanti/files/11929332/Sprint_2_Daily_Scrum.docx)
+
+Ürün Durumu:
+![Screenshot_1](https://github.com/burakyu/Saplanti/assets/82573866/6dbf66a0-ae61-46e7-bc75-90606674a3b0)
+![Screenshot_2](https://github.com/burakyu/Saplanti/assets/82573866/2cccb763-75ca-4e5e-adbb-fd27b986f58f)
+![Screenshot_3](https://github.com/burakyu/Saplanti/assets/82573866/2eb80564-b511-434c-91fa-357c65b5ecda)
+
+Sprint Review: 
+Alınan kararlar: Karakterin hareketleri bölümlerle orantılı hale getirilmeli ve bölümler yeniden ölçeklendirilmeli.
+
+Sprint Retrospective:
+Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
+
+
 
