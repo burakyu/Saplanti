@@ -1,4 +1,4 @@
-# U-96
+# Takım İsmi
 Takım Unity 96
 
 # Ürün İle İlgili Bilgiler
@@ -10,9 +10,7 @@ Takım Unity 96
 - Berk Kaya - Developer 
 
 ## Ürün İsmi
-Saplantı
-
-## Product Backlog URL
+--Saplantı--
 
 ## Ürün Açıklaması
 Açgözlü karakterimiz asla doymuyor. Adeta saplantı haline getirdiği madeni paraları toplamaktan kendini alamıyor. Ona bu yolculukta yardım eder misin?
@@ -51,4 +49,9 @@ Sprint Review:
 Sprint Retrospective:
 
 Mehmet, Burak ve Esra dışındaki takım üyeleri sınav haftaları olması nedeniyle vakit ayıramadılar. Görevlerin çoğu sprint 2'ye kaldı.
+
+# Sprint 2
+Sprint içinde tamamlanması tahmin edilen puan: 60 Puan
+
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 
