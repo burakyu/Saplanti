@@ -3520,6 +3520,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 6
       objectReference: {fileID: 0}
+    - target: {fileID: 2264774310432086356, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: jumpPower
+      value: 40
+      objectReference: {fileID: 0}
     - target: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -3563,6 +3567,10 @@ PrefabInstance:
     - target: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8344467101878427274, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8344467101878427275, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
       propertyPath: m_Name

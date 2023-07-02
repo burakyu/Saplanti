@@ -30,7 +30,7 @@ public class characterController : MonoBehaviour
         {
             speed = 1.0f;
             _spriteRenderer.flipX = false;
-            charPos = new Vector3(charPos.x + (speed * Time.deltaTime), charPos.y);
+            charPos = new Vector3(transform.position.x + (speed * Time.deltaTime), transform.position.y);
             transform.position = charPos;
             _animator.SetFloat("speed", speed);
         }
@@ -38,7 +38,7 @@ public class characterController : MonoBehaviour
         {
             speed = -1.0f;
             _spriteRenderer.flipX = true;
-            charPos = new Vector3(charPos.x + (speed * Time.deltaTime), charPos.y);
+            charPos = new Vector3(transform.position.x + (speed * Time.deltaTime), transform.position.y);
             transform.position = charPos;
             _animator.SetFloat("speed", speed);
         }
