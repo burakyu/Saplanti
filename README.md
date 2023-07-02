@@ -53,7 +53,8 @@ Mehmet, Burak ve Esra dışındaki takım üyeleri sınav haftaları olması ned
 # Sprint 2
 Sprint içinde tamamlanması tahmin edilen puan: 60 Puan
 
-Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:[Sprint_2_Daily_Scrum.docx](https://github.com/burakyu/Saplanti/files/11929332/Sprint_2_Daily_Scrum.docx)
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+  [Sprint_2_Daily_Scrum.docx](https://github.com/burakyu/Saplanti/files/11929332/Sprint_2_Daily_Scrum.docx)
 
 Ürün Durumu:
 ![Screenshot_1](https://github.com/burakyu/Saplanti/assets/82573866/6dbf66a0-ae61-46e7-bc75-90606674a3b0)
