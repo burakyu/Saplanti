@@ -11,8 +11,11 @@ public class characterController : MonoBehaviour
     private Vector3 charPos;
     [SerializeField] private GameObject _camera;
     private SpriteRenderer _spriteRenderer;
-    private bool isGrounded;
 
+    bool isGrounded;
+    public Transform GroundPosition;
+    public LayerMask GroundLayer;
+    public float GroundRadius;
 
     void Start()
     {
@@ -26,6 +29,7 @@ public class characterController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        onGroundCheck();
         if (Input.GetKey(KeyCode.D))
         {
             speed = 1.0f;
@@ -47,12 +51,15 @@ public class characterController : MonoBehaviour
             speed = 0.0f;
         }
         
-        if (Input.GetKey(KeyCode.W))
+        if (Input.GetKey(KeyCode.W) && isGrounded)
         {
             r2d.velocity = new Vector2(r2d.velocity.x, jumpPower*0.1f);
         }
 
-        
+        void onGroundCheck()
+        {
+            isGrounded = Physics2D.OverlapCircle(GroundPosition.position,GroundRadius,GroundLayer);
+        }
         
     }
  
