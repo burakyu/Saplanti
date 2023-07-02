@@ -29,6 +29,8 @@ public class characterController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        speed = 0f;
+        _animator.SetFloat("speed", speed);
         onGroundCheck();
         if (Input.GetKey(KeyCode.D))
         {
@@ -46,11 +48,8 @@ public class characterController : MonoBehaviour
             transform.position = charPos;
             _animator.SetFloat("speed", speed);
         }
-        else
-        {
-            speed = 0.0f;
-        }
         
+    
         if (Input.GetKey(KeyCode.W) && isGrounded)
         {
             r2d.velocity = new Vector2(r2d.velocity.x, jumpPower*0.1f);
