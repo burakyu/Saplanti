@@ -2267,6 +2267,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &1259046370 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4782469503314969847, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+  m_PrefabInstance: {fileID: 8344467101891442567}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1351623415
 GameObject:
   m_ObjectHideFlags: 0
@@ -3296,6 +3301,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 211450076, guid: b9a1ab982455a4aae9e1d67d1100cdd5, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -184.09998
+      objectReference: {fileID: 0}
+    - target: {fileID: 211450076, guid: b9a1ab982455a4aae9e1d67d1100cdd5, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2059688850429508354, guid: b9a1ab982455a4aae9e1d67d1100cdd5, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -3513,6 +3526,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 71737331206176022, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+    - target: {fileID: 71737331206176022, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
       propertyPath: m_Name
       value: groundCheck
       objectReference: {fileID: 0}
@@ -3523,6 +3540,26 @@ PrefabInstance:
     - target: {fileID: 2264774310432086356, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
       propertyPath: jumpPower
       value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 2264774310432086356, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: GroundRadius
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 2264774310432086356, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: GroundPosition
+      value: 
+      objectReference: {fileID: 1259046370}
+    - target: {fileID: 2264774310432086356, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: GroundLayer.m_Bits
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 4782469503314969847, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.012
+      objectReference: {fileID: 0}
+    - target: {fileID: 4782469503314969847, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.1301
       objectReference: {fileID: 0}
     - target: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
       propertyPath: m_RootOrder
