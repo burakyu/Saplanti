@@ -1,4 +1,3 @@
-![Screenshot_2](https://github.com/burakyu/Saplanti/assets/82573866/4aaaeb00-bdda-410d-a57b-11fcd9328d20)
 # Takım İsmi
 Takım Unity 96
 
