@@ -2,10 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class characterController : MonoBehaviour
+public class CharacterController : MonoBehaviour
 {
-    public float speed = 0.0f;
+
     [SerializeField] private float jumpPower = 1.0f;
+    [SerializeField] private float movementSpeed;
     private Rigidbody2D r2d;
     private Animator _animator;
     private Vector3 charPos;
@@ -23,43 +24,28 @@ public class characterController : MonoBehaviour
         r2d = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();
         charPos = transform.position;
-        
     }
 
-    // Update is called once per frame
     void Update()
     {
-        speed = 0f;
-        _animator.SetFloat("speed", speed);
-        onGroundCheck();
-        if (Input.GetKey(KeyCode.D))
-        {
-            speed = 1.0f;
-            _spriteRenderer.flipX = false;
-            charPos = new Vector3(transform.position.x + (speed * Time.deltaTime), transform.position.y);
-            transform.position = charPos;
-            _animator.SetFloat("speed", speed);
-        }
-        else if (Input.GetKey(KeyCode.A))
-        {
-            speed = -1.0f;
-            _spriteRenderer.flipX = true;
-            charPos = new Vector3(transform.position.x + (speed * Time.deltaTime), transform.position.y);
-            transform.position = charPos;
-            _animator.SetFloat("speed", speed);
-        }
-        
-    
-        if (Input.GetKey(KeyCode.W) && isGrounded)
-        {
-            r2d.velocity = new Vector2(r2d.velocity.x, jumpPower*0.1f);
-        }
-
-        void onGroundCheck()
-        {
-            isGrounded = Physics2D.OverlapCircle(GroundPosition.position,GroundRadius,GroundLayer);
-        }
-        
+        OnGroundCheck();
+        CharacterMovement();
     }
- 
+
+    void CharacterMovement()
+    {
+        charPos = new Vector3(transform.position.x + (Input.GetAxis("Horizontal") * Time.deltaTime * movementSpeed), transform.position.y);
+        transform.position = charPos;
+        _animator.SetFloat("speed", Input.GetAxis("Horizontal"));
+
+        if (Input.GetAxis("Horizontal") < 0) _spriteRenderer.flipX = true;
+        else if (Input.GetAxis("Horizontal") > 0) _spriteRenderer.flipX = false;
+
+        if (Input.GetAxis("Vertical") > 0 && isGrounded) r2d.velocity = new Vector2(r2d.velocity.x, jumpPower * 0.1f);
+    }
+
+    void OnGroundCheck()
+    {
+        isGrounded = Physics2D.OverlapCircle(GroundPosition.position, GroundRadius, GroundLayer);
+    }
 }

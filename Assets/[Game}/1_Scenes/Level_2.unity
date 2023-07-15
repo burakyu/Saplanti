@@ -206,7 +206,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6370186}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "ZeminPar\xE7as\u0131"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -241,7 +241,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 12885772}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -274,7 +274,7 @@ GameObject:
   - component: {fileID: 18249761}
   - component: {fileID: 18249763}
   - component: {fileID: 18249762}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -565,7 +565,7 @@ GameObject:
   - component: {fileID: 33454177}
   - component: {fileID: 33454179}
   - component: {fileID: 33454178}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -750,7 +750,7 @@ GameObject:
   - component: {fileID: 49205611}
   - component: {fileID: 49205613}
   - component: {fileID: 49205612}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -859,7 +859,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 54355746}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "ZeminPar\xE7as\u0131 (1)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1047,7 +1047,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 82319654}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1158,7 +1158,7 @@ GameObject:
   - component: {fileID: 95456351}
   - component: {fileID: 95456353}
   - component: {fileID: 95456352}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1267,7 +1267,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 100090410}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1304,7 +1304,7 @@ GameObject:
   - component: {fileID: 100243901}
   - component: {fileID: 100243903}
   - component: {fileID: 100243902}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1415,7 +1415,7 @@ GameObject:
   - component: {fileID: 106391401}
   - component: {fileID: 106391403}
   - component: {fileID: 106391402}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1526,7 +1526,7 @@ GameObject:
   - component: {fileID: 107181216}
   - component: {fileID: 107181218}
   - component: {fileID: 107181217}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1711,7 +1711,7 @@ GameObject:
   - component: {fileID: 117536471}
   - component: {fileID: 117536473}
   - component: {fileID: 117536472}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1933,7 +1933,7 @@ GameObject:
   - component: {fileID: 134570753}
   - component: {fileID: 134570755}
   - component: {fileID: 134570754}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2196,7 +2196,7 @@ GameObject:
   - component: {fileID: 144343345}
   - component: {fileID: 144343347}
   - component: {fileID: 144343346}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2374,7 +2374,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 153169488}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2407,7 +2407,7 @@ GameObject:
   - component: {fileID: 182254442}
   - component: {fileID: 182254441}
   - component: {fileID: 182254440}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2518,7 +2518,7 @@ GameObject:
   - component: {fileID: 191030073}
   - component: {fileID: 191030075}
   - component: {fileID: 191030074}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2701,7 +2701,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 201949726}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2735,7 +2735,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 207551465}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "ZeminPar\xE7as\u0131"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2772,7 +2772,7 @@ GameObject:
   - component: {fileID: 213045008}
   - component: {fileID: 213045010}
   - component: {fileID: 213045009}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2883,7 +2883,7 @@ GameObject:
   - component: {fileID: 221605205}
   - component: {fileID: 221605207}
   - component: {fileID: 221605206}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3066,7 +3066,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 228681945}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Zemin_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3102,7 +3102,7 @@ GameObject:
   - component: {fileID: 234509026}
   - component: {fileID: 234509028}
   - component: {fileID: 234509027}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3213,7 +3213,7 @@ GameObject:
   - component: {fileID: 237047859}
   - component: {fileID: 237047861}
   - component: {fileID: 237047860}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3398,7 +3398,7 @@ GameObject:
   - component: {fileID: 245727813}
   - component: {fileID: 245727815}
   - component: {fileID: 245727814}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3581,7 +3581,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 255340099}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3616,7 +3616,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 256324479}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3723,7 +3723,7 @@ GameObject:
   - component: {fileID: 269269095}
   - component: {fileID: 269269097}
   - component: {fileID: 269269096}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3834,7 +3834,7 @@ GameObject:
   - component: {fileID: 277588212}
   - component: {fileID: 277588214}
   - component: {fileID: 277588213}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3945,7 +3945,7 @@ GameObject:
   - component: {fileID: 281209874}
   - component: {fileID: 281209876}
   - component: {fileID: 281209875}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4054,7 +4054,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 285228268}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "ZeminPar\xE7as\u0131 (2)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4169,7 +4169,7 @@ GameObject:
   - component: {fileID: 295745275}
   - component: {fileID: 295745277}
   - component: {fileID: 295745276}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4280,7 +4280,7 @@ GameObject:
   - component: {fileID: 336153740}
   - component: {fileID: 336153742}
   - component: {fileID: 336153741}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4389,7 +4389,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 336444495}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4500,7 +4500,7 @@ GameObject:
   - component: {fileID: 344321540}
   - component: {fileID: 344321542}
   - component: {fileID: 344321541}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4611,7 +4611,7 @@ GameObject:
   - component: {fileID: 346343008}
   - component: {fileID: 346343010}
   - component: {fileID: 346343009}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4794,7 +4794,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 354551390}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4830,7 +4830,7 @@ GameObject:
   - component: {fileID: 356222102}
   - component: {fileID: 356222104}
   - component: {fileID: 356222103}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5161,7 +5161,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 368536588}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "ZeminPar\xE7as\u0131"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5196,7 +5196,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 373633236}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5229,7 +5229,7 @@ GameObject:
   - component: {fileID: 387027784}
   - component: {fileID: 387027786}
   - component: {fileID: 387027785}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5340,7 +5340,7 @@ GameObject:
   - component: {fileID: 389294948}
   - component: {fileID: 389294950}
   - component: {fileID: 389294949}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5451,7 +5451,7 @@ GameObject:
   - component: {fileID: 405940235}
   - component: {fileID: 405940234}
   - component: {fileID: 405940233}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5567,7 +5567,7 @@ GameObject:
   - component: {fileID: 410846140}
   - component: {fileID: 410846142}
   - component: {fileID: 410846141}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5761,7 +5761,7 @@ GameObject:
   - component: {fileID: 432123205}
   - component: {fileID: 432123207}
   - component: {fileID: 432123206}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5872,7 +5872,7 @@ GameObject:
   - component: {fileID: 437799075}
   - component: {fileID: 437799077}
   - component: {fileID: 437799076}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5983,7 +5983,7 @@ GameObject:
   - component: {fileID: 444663382}
   - component: {fileID: 444663384}
   - component: {fileID: 444663383}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6172,7 +6172,7 @@ GameObject:
   - component: {fileID: 455064973}
   - component: {fileID: 455064975}
   - component: {fileID: 455064974}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6510,7 +6510,7 @@ GameObject:
   - component: {fileID: 503171321}
   - component: {fileID: 503171323}
   - component: {fileID: 503171322}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6621,7 +6621,7 @@ GameObject:
   - component: {fileID: 522883377}
   - component: {fileID: 522883379}
   - component: {fileID: 522883378}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6880,7 +6880,7 @@ GameObject:
   - component: {fileID: 532059448}
   - component: {fileID: 532059450}
   - component: {fileID: 532059449}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6991,7 +6991,7 @@ GameObject:
   - component: {fileID: 573047303}
   - component: {fileID: 573047305}
   - component: {fileID: 573047304}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7100,7 +7100,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 575435618}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7141,7 +7141,7 @@ GameObject:
   - component: {fileID: 580477940}
   - component: {fileID: 580477939}
   - component: {fileID: 580477938}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7250,7 +7250,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 583477762}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7435,7 +7435,7 @@ GameObject:
   - component: {fileID: 630854066}
   - component: {fileID: 630854068}
   - component: {fileID: 630854067}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7549,7 +7549,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 636129959}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7660,7 +7660,7 @@ GameObject:
   - component: {fileID: 648652677}
   - component: {fileID: 648652679}
   - component: {fileID: 648652678}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7840,7 +7840,7 @@ GameObject:
   - component: {fileID: 685279153}
   - component: {fileID: 685279155}
   - component: {fileID: 685279154}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8103,7 +8103,7 @@ GameObject:
   - component: {fileID: 721359036}
   - component: {fileID: 721359038}
   - component: {fileID: 721359037}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8219,7 +8219,7 @@ GameObject:
   - component: {fileID: 725758248}
   - component: {fileID: 725758250}
   - component: {fileID: 725758249}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8330,7 +8330,7 @@ GameObject:
   - component: {fileID: 728609909}
   - component: {fileID: 728609911}
   - component: {fileID: 728609910}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8441,7 +8441,7 @@ GameObject:
   - component: {fileID: 733914927}
   - component: {fileID: 733914929}
   - component: {fileID: 733914928}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8552,7 +8552,7 @@ GameObject:
   - component: {fileID: 740570803}
   - component: {fileID: 740570805}
   - component: {fileID: 740570804}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8726,6 +8726,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1839887705274469471, guid: eb33548518cd743ae94368c66307a58a, type: 3}
   m_PrefabInstance: {fileID: 746709000}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &748902786
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3626905626802089913, guid: a56c44dbe375440cfb197bfb7efd269a, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 3626905626802089913, guid: a56c44dbe375440cfb197bfb7efd269a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.655745
+      objectReference: {fileID: 0}
+    - target: {fileID: 3626905626802089913, guid: a56c44dbe375440cfb197bfb7efd269a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6895711
+      objectReference: {fileID: 0}
+    - target: {fileID: 3626905626802089913, guid: a56c44dbe375440cfb197bfb7efd269a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.008662932
+      objectReference: {fileID: 0}
+    - target: {fileID: 3626905626802089913, guid: a56c44dbe375440cfb197bfb7efd269a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3626905626802089913, guid: a56c44dbe375440cfb197bfb7efd269a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3626905626802089913, guid: a56c44dbe375440cfb197bfb7efd269a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3626905626802089913, guid: a56c44dbe375440cfb197bfb7efd269a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3626905626802089913, guid: a56c44dbe375440cfb197bfb7efd269a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3626905626802089913, guid: a56c44dbe375440cfb197bfb7efd269a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3626905626802089913, guid: a56c44dbe375440cfb197bfb7efd269a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5268656256351485626, guid: a56c44dbe375440cfb197bfb7efd269a, type: 3}
+      propertyPath: m_Name
+      value: Managers
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a56c44dbe375440cfb197bfb7efd269a, type: 3}
 --- !u!1001 &754123688
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8806,7 +8863,7 @@ GameObject:
   - component: {fileID: 769873337}
   - component: {fileID: 769873339}
   - component: {fileID: 769873338}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8917,7 +8974,7 @@ GameObject:
   - component: {fileID: 770235534}
   - component: {fileID: 770235536}
   - component: {fileID: 770235535}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9100,7 +9157,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 776963684}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9258,7 +9315,7 @@ GameObject:
   - component: {fileID: 792400686}
   - component: {fileID: 792400688}
   - component: {fileID: 792400687}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9367,7 +9424,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 811857223}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9476,7 +9533,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 819877606}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9500,6 +9557,80 @@ Transform:
   m_Father: {fileID: 207551465}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &822864404
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -16.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -15.92
+      objectReference: {fileID: 0}
+    - target: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8344467101878427275, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+      propertyPath: m_Name
+      value: Player
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+--- !u!4 &822864405 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8344467101878427272, guid: bc17c09c78b4a4c3eb676c75605a7d86, type: 3}
+  m_PrefabInstance: {fileID: 822864404}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &826284303
 GameObject:
   m_ObjectHideFlags: 0
@@ -9509,7 +9640,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 826284304}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9609,7 +9740,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 837859318}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9642,7 +9773,7 @@ GameObject:
   - component: {fileID: 878560054}
   - component: {fileID: 878560056}
   - component: {fileID: 878560055}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10185,7 +10316,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 933315929}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10292,7 +10423,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 948787798}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10327,7 +10458,7 @@ GameObject:
   - component: {fileID: 955665605}
   - component: {fileID: 955665607}
   - component: {fileID: 955665606}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10436,7 +10567,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 968617632}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10469,7 +10600,7 @@ GameObject:
   - component: {fileID: 985299922}
   - component: {fileID: 985299924}
   - component: {fileID: 985299923}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10580,7 +10711,7 @@ GameObject:
   - component: {fileID: 1001549195}
   - component: {fileID: 1001549197}
   - component: {fileID: 1001549196}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10691,7 +10822,7 @@ GameObject:
   - component: {fileID: 1001651825}
   - component: {fileID: 1001651827}
   - component: {fileID: 1001651826}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10807,7 +10938,7 @@ GameObject:
   - component: {fileID: 1008311770}
   - component: {fileID: 1008311772}
   - component: {fileID: 1008311771}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10990,7 +11121,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1027504487}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11083,6 +11214,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coin (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6150475391636439843, guid: eb33548518cd743ae94368c66307a58a, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb33548518cd743ae94368c66307a58a, type: 3}
 --- !u!4 &1043072440 stripped
@@ -11101,7 +11236,7 @@ GameObject:
   - component: {fileID: 1061841083}
   - component: {fileID: 1061841085}
   - component: {fileID: 1061841084}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11212,7 +11347,7 @@ GameObject:
   - component: {fileID: 1068311109}
   - component: {fileID: 1068311111}
   - component: {fileID: 1068311110}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11323,7 +11458,7 @@ GameObject:
   - component: {fileID: 1086310160}
   - component: {fileID: 1086310162}
   - component: {fileID: 1086310161}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11434,7 +11569,7 @@ GameObject:
   - component: {fileID: 1097493342}
   - component: {fileID: 1097493344}
   - component: {fileID: 1097493343}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11545,7 +11680,7 @@ GameObject:
   - component: {fileID: 1109989901}
   - component: {fileID: 1109989903}
   - component: {fileID: 1109989902}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11654,7 +11789,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1127414124}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11840,7 +11975,7 @@ GameObject:
   - component: {fileID: 1139948400}
   - component: {fileID: 1139948402}
   - component: {fileID: 1139948401}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11949,7 +12084,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1147088661}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12065,7 +12200,7 @@ GameObject:
   - component: {fileID: 1179936510}
   - component: {fileID: 1179936512}
   - component: {fileID: 1179936511}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12211,7 +12346,7 @@ GameObject:
   - component: {fileID: 1186446894}
   - component: {fileID: 1186446896}
   - component: {fileID: 1186446895}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12394,7 +12529,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1204651343}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12503,7 +12638,7 @@ GameObject:
   - component: {fileID: 1222438486}
   - component: {fileID: 1222438488}
   - component: {fileID: 1222438487}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12614,7 +12749,7 @@ GameObject:
   - component: {fileID: 1225214941}
   - component: {fileID: 1225214943}
   - component: {fileID: 1225214942}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12836,7 +12971,7 @@ GameObject:
   - component: {fileID: 1233927226}
   - component: {fileID: 1233927228}
   - component: {fileID: 1233927227}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13019,7 +13154,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1241598461}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Zemin_1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13133,7 +13268,7 @@ GameObject:
   - component: {fileID: 1247743735}
   - component: {fileID: 1247743737}
   - component: {fileID: 1247743736}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13244,7 +13379,7 @@ GameObject:
   - component: {fileID: 1257988877}
   - component: {fileID: 1257988876}
   - component: {fileID: 1257988875}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13503,7 +13638,7 @@ GameObject:
   - component: {fileID: 1275729518}
   - component: {fileID: 1275729520}
   - component: {fileID: 1275729519}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13614,7 +13749,7 @@ GameObject:
   - component: {fileID: 1285858586}
   - component: {fileID: 1285858588}
   - component: {fileID: 1285858587}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13908,7 +14043,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1301642737}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14179,7 +14314,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1346892558}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14216,7 +14351,7 @@ GameObject:
   - component: {fileID: 1365100996}
   - component: {fileID: 1365100998}
   - component: {fileID: 1365100997}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14327,7 +14462,7 @@ GameObject:
   - component: {fileID: 1374074320}
   - component: {fileID: 1374074322}
   - component: {fileID: 1374074321}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14512,7 +14647,7 @@ GameObject:
   - component: {fileID: 1383615756}
   - component: {fileID: 1383615758}
   - component: {fileID: 1383615757}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14702,7 +14837,7 @@ GameObject:
   - component: {fileID: 1423888598}
   - component: {fileID: 1423888600}
   - component: {fileID: 1423888599}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14929,7 +15064,7 @@ GameObject:
   - component: {fileID: 1430921246}
   - component: {fileID: 1430921248}
   - component: {fileID: 1430921247}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15116,7 +15251,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1444111253}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "ZeminPar\xE7as\u0131"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15153,7 +15288,7 @@ GameObject:
   - component: {fileID: 1448926649}
   - component: {fileID: 1448926651}
   - component: {fileID: 1448926650}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15262,7 +15397,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1454233393}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15297,7 +15432,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1454783155}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "ZeminPar\xE7as\u0131 (3)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15332,7 +15467,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1458792661}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15369,7 +15504,7 @@ GameObject:
   - component: {fileID: 1463931688}
   - component: {fileID: 1463931690}
   - component: {fileID: 1463931689}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15480,7 +15615,7 @@ GameObject:
   - component: {fileID: 1466014079}
   - component: {fileID: 1466014081}
   - component: {fileID: 1466014080}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15660,7 +15795,7 @@ GameObject:
   - component: {fileID: 1472012624}
   - component: {fileID: 1472012626}
   - component: {fileID: 1472012625}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15771,7 +15906,7 @@ GameObject:
   - component: {fileID: 1472399073}
   - component: {fileID: 1472399075}
   - component: {fileID: 1472399074}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15882,7 +16017,7 @@ GameObject:
   - component: {fileID: 1480329202}
   - component: {fileID: 1480329204}
   - component: {fileID: 1480329203}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15993,7 +16128,7 @@ GameObject:
   - component: {fileID: 1481689812}
   - component: {fileID: 1481689814}
   - component: {fileID: 1481689813}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16104,7 +16239,7 @@ GameObject:
   - component: {fileID: 1482038689}
   - component: {fileID: 1482038691}
   - component: {fileID: 1482038690}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16359,7 +16494,7 @@ GameObject:
   - component: {fileID: 1518292694}
   - component: {fileID: 1518292696}
   - component: {fileID: 1518292695}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16470,7 +16605,7 @@ GameObject:
   - component: {fileID: 1526737438}
   - component: {fileID: 1526737440}
   - component: {fileID: 1526737439}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16729,7 +16864,7 @@ GameObject:
   - component: {fileID: 1547120671}
   - component: {fileID: 1547120673}
   - component: {fileID: 1547120672}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16986,7 +17121,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1569849573}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17027,7 +17162,7 @@ GameObject:
   - component: {fileID: 1583927054}
   - component: {fileID: 1583927056}
   - component: {fileID: 1583927055}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17138,7 +17273,7 @@ GameObject:
   - component: {fileID: 1611748419}
   - component: {fileID: 1611748421}
   - component: {fileID: 1611748420}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17249,7 +17384,7 @@ GameObject:
   - component: {fileID: 1613726276}
   - component: {fileID: 1613726275}
   - component: {fileID: 1613726274}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17358,7 +17493,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1643718544}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17534,7 +17669,7 @@ GameObject:
   - component: {fileID: 1653022237}
   - component: {fileID: 1653022239}
   - component: {fileID: 1653022238}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17871,7 +18006,7 @@ GameObject:
   - component: {fileID: 1681485416}
   - component: {fileID: 1681485418}
   - component: {fileID: 1681485417}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17982,7 +18117,7 @@ GameObject:
   - component: {fileID: 1682814600}
   - component: {fileID: 1682814602}
   - component: {fileID: 1682814601}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18093,7 +18228,7 @@ GameObject:
   - component: {fileID: 1685949302}
   - component: {fileID: 1685949304}
   - component: {fileID: 1685949303}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18202,7 +18337,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1689052016}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18244,7 +18379,7 @@ GameObject:
   - component: {fileID: 1691530947}
   - component: {fileID: 1691530949}
   - component: {fileID: 1691530948}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18353,7 +18488,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1702355765}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18384,7 +18519,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1702992535}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18421,7 +18556,7 @@ GameObject:
   - component: {fileID: 1708726946}
   - component: {fileID: 1708726948}
   - component: {fileID: 1708726947}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18530,7 +18665,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1719433143}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "ZeminPar\xE7as\u0131 (1)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18565,7 +18700,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1721141713}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18602,7 +18737,7 @@ GameObject:
   - component: {fileID: 1727364505}
   - component: {fileID: 1727364507}
   - component: {fileID: 1727364506}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18791,7 +18926,7 @@ GameObject:
   - component: {fileID: 1753655858}
   - component: {fileID: 1753655860}
   - component: {fileID: 1753655859}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19011,7 +19146,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1756534819}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19049,7 +19184,7 @@ GameObject:
   - component: {fileID: 1773675714}
   - component: {fileID: 1773675716}
   - component: {fileID: 1773675715}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19160,7 +19295,7 @@ GameObject:
   - component: {fileID: 1778294817}
   - component: {fileID: 1778294819}
   - component: {fileID: 1778294818}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19269,7 +19404,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1780608532}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19378,7 +19513,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1797329440}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19412,6 +19547,7 @@ GameObject:
   - component: {fileID: 1803505754}
   - component: {fileID: 1803505753}
   - component: {fileID: 1803505752}
+  - component: {fileID: 1803505756}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -19518,6 +19654,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1803505756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1803505751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39e36ddeacc414f0b87727d4b07b98ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  followTarget: {fileID: 822864405}
+  followSpeed: 10
 --- !u!1 &1803863464
 GameObject:
   m_ObjectHideFlags: 0
@@ -19529,7 +19679,7 @@ GameObject:
   - component: {fileID: 1803863465}
   - component: {fileID: 1803863467}
   - component: {fileID: 1803863466}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19714,7 +19864,7 @@ GameObject:
   - component: {fileID: 1817676677}
   - component: {fileID: 1817676679}
   - component: {fileID: 1817676678}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19897,7 +20047,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1821362747}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19932,7 +20082,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1821861102}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19965,7 +20115,7 @@ GameObject:
   - component: {fileID: 1828460393}
   - component: {fileID: 1828460395}
   - component: {fileID: 1828460394}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20148,7 +20298,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1849775539}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20267,7 +20417,7 @@ GameObject:
   - component: {fileID: 1869465741}
   - component: {fileID: 1869465743}
   - component: {fileID: 1869465742}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20378,7 +20528,7 @@ GameObject:
   - component: {fileID: 1871219999}
   - component: {fileID: 1871220001}
   - component: {fileID: 1871220000}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20563,7 +20713,7 @@ GameObject:
   - component: {fileID: 1876467118}
   - component: {fileID: 1876467120}
   - component: {fileID: 1876467119}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20674,7 +20824,7 @@ GameObject:
   - component: {fileID: 1896733982}
   - component: {fileID: 1896733984}
   - component: {fileID: 1896733983}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20785,7 +20935,7 @@ GameObject:
   - component: {fileID: 1901861650}
   - component: {fileID: 1901861652}
   - component: {fileID: 1901861651}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20896,7 +21046,7 @@ GameObject:
   - component: {fileID: 1913701059}
   - component: {fileID: 1913701061}
   - component: {fileID: 1913701060}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21007,7 +21157,7 @@ GameObject:
   - component: {fileID: 1914041871}
   - component: {fileID: 1914041873}
   - component: {fileID: 1914041872}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21123,7 +21273,7 @@ GameObject:
   - component: {fileID: 1926330304}
   - component: {fileID: 1926330306}
   - component: {fileID: 1926330305}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21234,7 +21384,7 @@ GameObject:
   - component: {fileID: 1935228187}
   - component: {fileID: 1935228189}
   - component: {fileID: 1935228188}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21493,7 +21643,7 @@ GameObject:
   - component: {fileID: 1945982790}
   - component: {fileID: 1945982792}
   - component: {fileID: 1945982791}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21602,7 +21752,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1957053726}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21929,7 +22079,7 @@ GameObject:
   - component: {fileID: 1966470553}
   - component: {fileID: 1966470555}
   - component: {fileID: 1966470554}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22223,7 +22373,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1992043022}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27068,7 +27218,7 @@ GameObject:
   - component: {fileID: 2005217844}
   - component: {fileID: 2005217846}
   - component: {fileID: 2005217845}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27214,7 +27364,7 @@ GameObject:
   - component: {fileID: 2035823979}
   - component: {fileID: 2035823981}
   - component: {fileID: 2035823980}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27323,7 +27473,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2036111079}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "ZeminPar\xE7as\u0131 (1)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27508,7 +27658,7 @@ GameObject:
   - component: {fileID: 2067360325}
   - component: {fileID: 2067360327}
   - component: {fileID: 2067360326}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27619,7 +27769,7 @@ GameObject:
   - component: {fileID: 2077833566}
   - component: {fileID: 2077833568}
   - component: {fileID: 2077833567}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_5 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27945,7 +28095,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2104162367}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ZeminTemeli (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28123,7 +28273,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2118617572}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "ZeminPar\xE7as\u0131 (2)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28160,7 +28310,7 @@ GameObject:
   - component: {fileID: 2124119817}
   - component: {fileID: 2124119819}
   - component: {fileID: 2124119818}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28271,7 +28421,7 @@ GameObject:
   - component: {fileID: 2125394672}
   - component: {fileID: 2125394674}
   - component: {fileID: 2125394673}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Terrain (16x16)_27
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28454,7 +28604,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2147214336}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: "ZeminPar\xE7as\u0131 (2)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
