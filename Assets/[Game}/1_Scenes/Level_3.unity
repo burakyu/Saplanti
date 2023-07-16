@@ -8280,7 +8280,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1052651992, guid: b9a1ab982455a4aae9e1d67d1100cdd5, type: 3}
       propertyPath: m_text
-      value: LEVEL3
+      value: LEVEL 3
       objectReference: {fileID: 0}
     - target: {fileID: 2059688850429508354, guid: b9a1ab982455a4aae9e1d67d1100cdd5, type: 3}
       propertyPath: m_Pivot.x
