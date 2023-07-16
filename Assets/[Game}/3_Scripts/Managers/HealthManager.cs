@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class HealthManager : MonoBehaviour
+public class HealthManager : Singleton<HealthManager>
 {
     public static int _currentHealth;
     [SerializeField] private GameObject[] hearts;
@@ -37,6 +37,11 @@ public class HealthManager : MonoBehaviour
         if (_currentHealth <= 0)
         {
             EventManager.PlayerFailed.Invoke();
+            _currentHealth = 3;
+        }
+        else
+        {
+            LevelManager.Instance.RestartLevel();
         }
         
     }

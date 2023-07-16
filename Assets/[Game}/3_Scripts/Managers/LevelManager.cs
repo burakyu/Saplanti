@@ -7,17 +7,24 @@ public class LevelManager : Singleton<LevelManager>
 {
     private void OnEnable()
     {
-        EventManager.PlayerFailed.AddListener(RestartGame);
+        EventManager.PlayerFailed.AddListener(PlayerDied);
     }
 
     private void OnDisable()
     {
-        EventManager.PlayerFailed.RemoveListener(RestartGame);
+        EventManager.PlayerFailed.RemoveListener(PlayerDied);
+    }
+
+    public void PlayerDied()
+    {
+        SceneManager.LoadScene(0);
     }
 
     public void RestartGame()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
+        HealthManager._currentHealth = 3;
+
     }
 
     public void RestartLevel()
