@@ -4,7 +4,13 @@ using UnityEngine;
 
 public class HealthManager : MonoBehaviour
 {
-    private int _currentHealth;
+    public static int _currentHealth;
+    [SerializeField] private GameObject[] hearts;
+
+    private void Awake()
+    {
+        if(Time.realtimeSinceStartup < 4) _currentHealth = 3;
+    }
 
     private void OnEnable()
     {
@@ -18,7 +24,11 @@ public class HealthManager : MonoBehaviour
 
     private void Start()
     {
-        _currentHealth = 3;
+        for (int i = 0; i < hearts.Length; i++)
+        {
+            if(i <_currentHealth) hearts[i].SetActive(true);
+            else hearts[i].SetActive(false);
+        }
     }
 
     void ReduceHealth()
@@ -26,7 +36,7 @@ public class HealthManager : MonoBehaviour
         _currentHealth--;
         if (_currentHealth <= 0)
         {
-
+            EventManager.PlayerFailed.Invoke();
         }
         
     }

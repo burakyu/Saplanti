@@ -9,6 +9,7 @@ public class DieArea : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
+            EventManager.PlayerTakeDamage.Invoke();
             LevelManager.Instance.RestartLevel();
         }
     }

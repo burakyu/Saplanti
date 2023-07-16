@@ -9,7 +9,7 @@ public class Collectable : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             AudioSource.PlayClipAtPoint(CoinManager.Instance.CoinCollectSound, transform.position);
-            CoinManager.Instance.CoinCount++;
+            CoinManager.CoinCount++;
             Destroy(this.gameObject);
             EventManager.CoinCollected.Invoke();
         }

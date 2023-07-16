@@ -4,6 +4,6 @@ using UnityEngine;
 
 public class CoinManager : Singleton<CoinManager>
 {
-    public int CoinCount;
+    public static int CoinCount;
     public AudioClip CoinCollectSound;
 }

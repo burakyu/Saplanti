@@ -7,4 +7,6 @@ public static class EventManager
 {
     public static UnityEvent CoinCollected = new UnityEvent();
     public static UnityEvent PlayerTakeDamage = new UnityEvent();
+    public static UnityEvent PlayerFailed = new UnityEvent();
+
 }
