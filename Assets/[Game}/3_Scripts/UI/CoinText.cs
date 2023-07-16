@@ -20,6 +20,7 @@ public class CoinText : MonoBehaviour
     private void Start()
     {
         _coinText = GetComponent<TextMeshProUGUI>();
+        UpdateCoinText();
     }
 
     void UpdateCoinText()

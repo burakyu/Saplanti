@@ -38,6 +38,7 @@ public class HealthManager : Singleton<HealthManager>
         {
             EventManager.PlayerFailed.Invoke();
             _currentHealth = 3;
+            CoinManager.CoinCount = 0;
         }
         else
         {
