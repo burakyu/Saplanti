@@ -67,6 +67,23 @@ Alınan kararlar: Karakterin hareketleri bölümlerle orantılı hale getirilmel
 Sprint Retrospective:
 Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 
+# Sprint 3
+Sprint içinde tamamlanması tahmin edilen puan: 50
+
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+ [Daily Scrum.docx](https://github.com/burakyu/Saplanti/files/12064544/Daily.Scrum.docx)
+
+Ürün Durumu:
+![Screenshot_5](https://github.com/burakyu/Saplanti/assets/82573866/270a06cf-c7b1-43a6-8b40-59c304a306c2)
+![Screenshot_6](https://github.com/burakyu/Saplanti/assets/82573866/365c17fb-dd7b-4347-b4db-475084f0b84b)
+![Screenshot_7](https://github.com/burakyu/Saplanti/assets/82573866/29100ff1-431f-4bfc-805f-c5a1e0d849cf)
+
+Sprint Review:
+Alınan kararlar: Bitiş ekranı dizaynı ve son bölüm geçişi , karakter ölçeklendirilmesi , yoğunluk yönlendirimi yapılmıştır.
+
+Sprint Retrospective:
+Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
 
 
 
